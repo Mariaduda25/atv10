@@ -27,5 +27,7 @@ function balanco (){
     console.log("a receita anual é de R$:" + anual + "reais");
     console.log("a despesa anual é de R$: "+ despesaA + "reais");
 
-    if (!prejuizo)[]
+    if (!prejuizo)[
+    
+    ]
 }
